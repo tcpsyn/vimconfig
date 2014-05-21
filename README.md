@@ -1,3 +1,6 @@
+## Vim config for effective coding.
+[![Vim Config](https://github.com/tcpsyn/vimconfig/raw/master/img/screenshot.png)]
+
 Installation:
 
     git clone git://github.com/tcpsyn/vimconfig.git ~/.vim
