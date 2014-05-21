@@ -15,6 +15,11 @@ Switch to the `~/.vim` directory, and fetch submodules:
     git submodule init
     git submodule update
 
+Usage: 
+
+Ctrl-n (Open file tree)
+Ctrl-t (Open tag bar)
+
 Included submodules:
 
 pathogen: [https://github.com/tpope/vim-pathogen]
