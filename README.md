@@ -27,20 +27,15 @@ Switch to the `~/.vim` directory, and fetch submodules:
 * :sh to drop to shell
 * :! to execute a command.
 
-Read the docs for fugitive for git functions. (It is fantastic)
-Read the docs for vim-go for go functions. 
-Use "?" in the sidebars for quick help.
+Read the docs for fugitive for git functions. (It is fantastic)  
+Read the docs for vim-go for go functions.   
+Use "?" in the sidebars for quick help.  
 
 ####Included submodules:
 
-pathogen: [https://github.com/tpope/vim-pathogen]
-
-vim-go: [https://github.com/fatih/vim-go]
-
-nerdtree: [https://github.com/scrooloose/nerdtree]
-
-tagbar: [https://github.com/majutsushi/tagbar]
-
-colorschemes: [https://github.com/flazz/vim-colorschemes]
-
-fugitive: [https://github.com/tpope/vim-fugitive]
+pathogen: [https://github.com/tpope/vim-pathogen]  
+vim-go: [https://github.com/fatih/vim-go]  
+nerdtree: [https://github.com/scrooloose/nerdtree]  
+tagbar: [https://github.com/majutsushi/tagbar]  
+colorschemes: [https://github.com/flazz/vim-colorschemes]  
+fugitive: [https://github.com/tpope/vim-fugitive]  
