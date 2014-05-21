@@ -17,9 +17,9 @@ Switch to the `~/.vim` directory, and fetch submodules:
 
 Included submodules:
 
-pathogen: https://github.com/tpope/vim-pathogen
-vim-go: https://github.com/fatih/vim-go
-nerdtree: https://github.com/scrooloose/nerdtree
-tagbar: https://github.com/majutsushi/tagbar
-colorschemes: https://github.com/flazz/vim-colorschemes
-fugitive: https://github.com/tpope/vim-fugitive
+pathogen: [https://github.com/tpope/vim-pathogen]
+vim-go: [https://github.com/fatih/vim-go]
+nerdtree: [https://github.com/scrooloose/nerdtree]
+tagbar: [https://github.com/majutsushi/tagbar]
+colorschemes: [https://github.com/flazz/vim-colorschemes]
+fugitive: [https://github.com/tpope/vim-fugitive]
